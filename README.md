@@ -4,9 +4,8 @@ Este projeto foi desenvolvido para finalizar a disciplina de PWE da minha faculd
 É um projeto WEB feito em cima de Java, JavaScript, JQuery, Ajax, Bootstrap, HTML e CSS.
 Consome duas APIs do Google para o usuário realizar Login.
 Tem como Objetivo reservar ingressos para um Zoológico FICTÍCIO.
-
-
-
+<br/>
+<br/>
 > **Warning**:
 
 # Instruções:
