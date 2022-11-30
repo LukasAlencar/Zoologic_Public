@@ -1,8 +1,8 @@
 # Intuito do Projeto
 
 Este projeto foi desenvolvido para finalizar a disciplina de PWE da minha faculdade.<br/>
-É um projeto WEB feito em cima de Java, JavaScript, JQuery, Ajax, Bootstrap, HTML e CSS.<br/><br/>
-Consome duas APIs do Google para o usuário realizar Login.<br/><br/>
+É um projeto WEB feito em cima de Java, JavaScript, JQuery, Ajax, Bootstrap, HTML e CSS.<br/>
+Consome duas APIs do Google para o usuário realizar Login.<br/>
 Tem como Objetivo reservar ingressos para um Zoológico FICTÍCIO.<br/>
 <br/>
 <br/>
